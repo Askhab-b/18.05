@@ -32,3 +32,4 @@ console.log('Ты ранен')
 }
 },
 }
+// Code review произведён
